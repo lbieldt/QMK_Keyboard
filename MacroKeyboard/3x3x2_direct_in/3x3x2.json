@@ -1,0 +1,60 @@
+[
+  {
+    "name": "3x3x2",
+    "author": "Louis",
+    "notes": "It has 3 layers, the top left key, cycles the layers.\nHolding the top left key for >1 second, while in layer one will reset the ATMEGA32U4 to be programmed.",
+    "switchMount": "cherry",
+    "plate": true
+  },
+  [
+    {
+      "y": 1
+    },
+    "Cycle\nReset",
+    "8\n↑",
+    "9\nPgUp",
+    {
+      "x": 1,
+      "a": 6
+    },
+    "Ref←",
+    "Edit←",
+    {
+      "a": 4
+    },
+    "\n\n1\n3\n\n\n\nJustify"
+  ],
+  [
+    "4\n←",
+    {
+      "a": 5
+    },
+    "Sketch",
+    {
+      "a": 4
+    },
+    "6\n→",
+    {
+      "x": 1,
+      "a": 7
+    },
+    "",
+    "",
+    ""
+  ],
+  [
+    {
+      "a": 4
+    },
+    "1\nEnd",
+    "2\n↓",
+    "3\nPgDn",
+    {
+      "x": 1,
+      "a": 7
+    },
+    "Cut",
+    "Copy",
+    "Paste"
+  ]
+]
